@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957802545077",
+    "firebase_url": "https://mychats-1ab8c.firebaseio.com",
+    "project_id": "mychats-1ab8c",
+    "storage_bucket": "mychats-1ab8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957802545077:android:8ea92cdbea1c4c72",
+        "android_client_info": {
+          "package_name": "com.example.supriya.mychats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957802545077-dktau50paq3qsilmq9q6f0q0jhnb8p7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supriya.mychats",
+            "certificate_hash": "06b2db761163f353d3a119ea745b4606b84a0f3e"
+          }
+        },
+        {
+          "client_id": "957802545077-l63aabg43tes618fej3o483v7e6sujm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_Td136oE-FaWYANVhfHwJe4ZbTViQEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957802545077-l63aabg43tes618fej3o483v7e6sujm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

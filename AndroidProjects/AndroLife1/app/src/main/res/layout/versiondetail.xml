@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+<RelativeLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_below="@+id/tV2"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView"
+        android:src="@drawable/cupcake"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tV2"
+        android:text="Android CUPCAKE (version 1.5)
+( API 3) is a version of Android developed by Google, a major platform release deployable to Android-powered handsets starting in May 2009, that is no longer supported. The release includes new features for users and developers, as well as changes in the Android framework API. For developers, the Android 1.5 platform is available as a downloadable component for the Android SDK.Android 1.5 included new features such as an on-screen keyboard and Bluetooth support as well as improvements to existing features such as UI changes for application management and several Google apps."/>
+    <Button
+        android:text="CLICK HERE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bt1"
+        android:onClick="linkme"/>
+
+</RelativeLayout>
+</ScrollView>
